@@ -1,0 +1,23 @@
+{
+  "name": "ticket-breakdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefsterjr/ticket-breakdown.git"
+  },
+  "author": "Jefster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefsterjr/ticket-breakdown/issues"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "homepage": "https://github.com/jefsterjr/ticket-breakdown#readme"
+}
